@@ -1,6 +1,6 @@
 {
-    "initial_radial_grid_points": 100,
-    "initial_axial_grid_points": 100,
+    "initial_radial_grid_points": 50,
+    "initial_axial_grid_points": 50,
     "mesh_refinement": {
         "is_enabled": true,
         "coil_region": {

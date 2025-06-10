@@ -2,8 +2,8 @@
     "radio_frequency_Hz": 13.56e6,
     "input_power_W": 1500,
     "input_gas_flow_rate_sccm": 100,
-    "time_step_s": 1e-6,
-    "simulation_time_s": 1e-3,
+    "time_step_s": 1e-3,
+    "simulation_time_s": 1.0,
     "impedance_matching_network": {
         "is_enabled": true,
         "matching_capacitance_F": 1e-9,
