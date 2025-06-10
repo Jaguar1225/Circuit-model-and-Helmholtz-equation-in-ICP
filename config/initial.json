@@ -1,0 +1,9 @@
+{
+    "initial_conductivity_S_per_m": 5e3,
+    "initial_electron_temperature_eV": 5.0,
+    "initial_electron_density_m3": 1e18,
+    "initial_plasma_radius_m": 0.1,
+    "initial_plasma_height_m": 0.2,
+    "relaxation_factor": 0.01,
+    "convergence_tolerance": 1e-3
+} 

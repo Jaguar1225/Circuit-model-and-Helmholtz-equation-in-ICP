@@ -1,0 +1,36 @@
+{
+    "reactions": {
+        "ionization": {
+            "E_ion_J": 15.76e-19,
+            "k0": 5e-14,
+            "E_a": 15.8
+        },
+        "excitation": {
+            "E_exc_J": 11.55e-19,
+            "k0": 1e-14,
+            "E_a": 11.5
+        },
+        "step_ionization": {
+            "E_step_J": 4.21e-19,
+            "k0": 1e-13,
+            "E_a": 5.0
+        },
+        "recombination": {
+            "radiative": {
+                "k0": 1e-13,
+                "alpha": -0.7
+            },
+            "three_body": {
+                "k0": 1e-43,
+                "alpha": -4.5
+            }
+        }
+    },
+    "transport": {
+        "kappa_e": 1.0,
+        "D_e": 0.1,
+        "D_i": 0.01,
+        "mu_e": 0.1,
+        "mu_i": 0.001
+    }
+}

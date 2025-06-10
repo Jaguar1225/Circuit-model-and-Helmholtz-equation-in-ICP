@@ -1,0 +1,16 @@
+{
+    "chamber_height_m": 0.3,
+    "chamber_radius_m": 0.15,
+    "material": {
+        "base_material": "Al2O3",
+        "coating_material": "Y2O3",
+        "coating_thickness_m": 100e-6,
+        "relative_permittivity": 9.8,
+        "thermal_conductivity_W_per_mK": 30.0,
+        "secondary_electron_yield": 0.1
+    },
+    "wall_thickness_m": 0.005,
+    "gas_type": "Ar",
+    "pressure_Pa": 30,
+    "temperature_K": 300
+} 

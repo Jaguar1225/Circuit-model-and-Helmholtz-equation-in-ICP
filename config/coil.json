@@ -1,0 +1,8 @@
+{
+    "number_of_turns": 3,
+    "coil_radius_max": 0.1,
+    "coil_radius_min": 0.05,
+    "coil_width": 0.025,
+    "wire_material": "copper",
+    "coil_resistance_ohm": 1.7e-8
+} 
